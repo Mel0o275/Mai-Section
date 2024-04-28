@@ -103,7 +103,7 @@ label #bar-mai {
     padding: 100px 200px;
     width: 100%;
     display: flex;
-    background-image: url(../img/books-1845614.jpg);
+    background-image: url(books-1845614.jpg);
     background-size: cover;
     transition: ease .7s;
 }
@@ -213,7 +213,7 @@ label #bar-mai {
 .main-2-mai {
     padding: 100px 200px;
     width: 100%;
-    background-image: url(../img/learning-4264032.jpg);
+    background-image: url(learning-4264032.jpg);
     background-attachment: local;
     background-size: cover;
 }
@@ -279,7 +279,7 @@ label #bar-mai {
 
 .p-mai{
     padding: 100px 200px;
-    background-image: url(../img/OIP\ \(2\).jpeg);
+    background-image: url(OIP\ \(2\).jpeg);
     display: flex;
     justify-content: space-between;
 }
